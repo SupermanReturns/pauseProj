@@ -1,0 +1,6 @@
+framework module Pods_siy0u7 {
+  umbrella header "Pods-siy0u7-umbrella.h"
+
+  export *
+  module * { export * }
+}

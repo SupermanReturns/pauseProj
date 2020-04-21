@@ -1,0 +1,37 @@
+PODS:
+  - CCITBase (0.1.0):
+    - CCITBase/BaseView (= 0.1.0)
+  - CCITBase/BaseView (0.1.0)
+  - CCITBusiness (0.1.5):
+    - CCITBusiness/CCITBusiness (= 0.1.5)
+  - CCITBusiness/CCITBusiness (0.1.5)
+  - Demo (0.8.0):
+    - Demo/BaseModel (= 0.8.0)
+    - Demo/Tools (= 0.8.0)
+    - Demo/ViewController (= 0.8.0)
+    - Demo/Views (= 0.8.0)
+  - Demo/BaseModel (0.8.0)
+  - Demo/Tools (0.8.0)
+  - Demo/ViewController (0.8.0)
+  - Demo/Views (0.8.0)
+
+DEPENDENCIES:
+  - CCITBase
+  - CCITBusiness
+  - Demo (= 0.8.0)
+
+SPEC REPOS:
+  https://github.com/SupermanReturns/ccitSpec:
+    - CCITBase
+    - CCITBusiness
+  https://github.com/SupermanReturns/podspec.git:
+    - Demo
+
+SPEC CHECKSUMS:
+  CCITBase: eb3cd828932d1214192b350d4c1d0f5b0490e440
+  CCITBusiness: d31d05aeb96d9d0eea77300114a1c37b79059b79
+  Demo: 704edb8d3e2e82e2598c3b01e6c732fc84ea021a
+
+PODFILE CHECKSUM: 62302e8be72f54fd5d2a494b22246af4422c5668
+
+COCOAPODS: 1.8.4

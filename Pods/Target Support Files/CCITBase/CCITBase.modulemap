@@ -1,0 +1,6 @@
+framework module CCITBase {
+  umbrella header "CCITBase-umbrella.h"
+
+  export *
+  module * { export * }
+}

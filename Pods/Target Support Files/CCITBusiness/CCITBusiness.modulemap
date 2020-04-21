@@ -1,0 +1,6 @@
+framework module CCITBusiness {
+  umbrella header "CCITBusiness-umbrella.h"
+
+  export *
+  module * { export * }
+}
